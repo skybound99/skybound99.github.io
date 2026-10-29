@@ -1,4 +1,4 @@
-﻿google.com, pub-1458302844590844, DIRECT, f08c47fec0942fa0
+google.com, pub-1458302844590844, DIRECT, f08c47fec0942fa0
 facebook.com, 1356690271968164, DIRECT, c3e20eee3f780d68
 facebook.com, 1946840875952093, DIRECT, c3e20eee3f780d68 
 pangleglobal.com, 5015196, DIRECT
@@ -633,7 +633,6 @@ video.unrulymedia.com, 949394431, RESELLER
 appaspire.com, 97517, RESELLER
 contextweb.com, 563195, RESELLER, 89ff185a4c4e857c
 
-
 ironsrc.com, 49990, Direct
 adbility-media.com, 187, RESELLER
 google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
@@ -1057,10 +1056,6 @@ yeahmobi.com,114122,RESELLER
 yeahmobi.com,5135224,RESELLER
 zmaticoo.com,5135224,RESELLER
 zoomd.com,88478941,RESELLER
-
-
-
-
 
 
 
@@ -1698,7 +1693,6 @@ aceex.io, 1697, RESELLER
 video.unrulymedia.com, 949394431, RESELLER
 appaspire.com, 97517, RESELLER
 contextweb.com, 563195, RESELLER, 89ff185a4c4e857c
-
 
 ironsrc.com, 49990, Direct
 adbility-media.com, 187, RESELLER
